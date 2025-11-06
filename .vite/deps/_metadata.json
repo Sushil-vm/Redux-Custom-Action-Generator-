@@ -1,0 +1,67 @@
+{
+  "hash": "59e763ad",
+  "configHash": "7124c4c9",
+  "lockfileHash": "e3b0c442",
+  "browserHash": "38f4a5c4",
+  "optimized": {
+    "react": {
+      "src": "../../node_modules/.pnpm/react@19.2.0/node_modules/react/index.js",
+      "file": "react.js",
+      "fileHash": "ad327ebd",
+      "needsInterop": true
+    },
+    "react-dom": {
+      "src": "../../node_modules/.pnpm/react-dom@19.2.0_react@19.2.0/node_modules/react-dom/index.js",
+      "file": "react-dom.js",
+      "fileHash": "8cc3b607",
+      "needsInterop": true
+    },
+    "react/jsx-dev-runtime": {
+      "src": "../../node_modules/.pnpm/react@19.2.0/node_modules/react/jsx-dev-runtime.js",
+      "file": "react_jsx-dev-runtime.js",
+      "fileHash": "980d08be",
+      "needsInterop": true
+    },
+    "react/jsx-runtime": {
+      "src": "../../node_modules/.pnpm/react@19.2.0/node_modules/react/jsx-runtime.js",
+      "file": "react_jsx-runtime.js",
+      "fileHash": "cf6fc59b",
+      "needsInterop": true
+    },
+    "@mui/material": {
+      "src": "../../node_modules/.pnpm/@mui+material@7.3.5_@emotion+react@11.14.0_@emotion+styled@11.14.1_@types+react@19.0.0_react-dom@19.2.0_react@19.2.0/node_modules/@mui/material/esm/index.js",
+      "file": "@mui_material.js",
+      "fileHash": "cc51957f",
+      "needsInterop": false
+    },
+    "@mui/icons-material/ContentCopy": {
+      "src": "../../node_modules/.pnpm/@mui+icons-material@7.3.5_@mui+material@7.3.5_@types+react@19.0.0_react@19.2.0/node_modules/@mui/icons-material/esm/ContentCopy.js",
+      "file": "@mui_icons-material_ContentCopy.js",
+      "fileHash": "11db141e",
+      "needsInterop": false
+    },
+    "@mui/icons-material/CheckCircle": {
+      "src": "../../node_modules/.pnpm/@mui+icons-material@7.3.5_@mui+material@7.3.5_@types+react@19.0.0_react@19.2.0/node_modules/@mui/icons-material/esm/CheckCircle.js",
+      "file": "@mui_icons-material_CheckCircle.js",
+      "fileHash": "9015e0ea",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-SOLAXFZU": {
+      "file": "chunk-SOLAXFZU.js"
+    },
+    "chunk-I7AX6PWM": {
+      "file": "chunk-I7AX6PWM.js"
+    },
+    "chunk-EZXWOKDX": {
+      "file": "chunk-EZXWOKDX.js"
+    },
+    "chunk-7MKFWDX7": {
+      "file": "chunk-7MKFWDX7.js"
+    },
+    "chunk-DOGROIYU": {
+      "file": "chunk-DOGROIYU.js"
+    }
+  }
+}
